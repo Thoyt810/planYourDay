@@ -36,7 +36,7 @@ body {
     border-top: 1px solid white;;
   }
   
-  .hours {
+  .hour {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
@@ -57,7 +57,7 @@ body {
     color: white;
   }
   
-  .saveBtn {
+  .btn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -65,7 +65,7 @@ body {
     color: white;
   }
   
-  .saveBtn i:hover {
+  .btn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
