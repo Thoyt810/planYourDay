@@ -4,24 +4,11 @@ $(document).ready(function(){
 
     $("#currentDay").append(currentDate);
 
-    $("textarea").on("click",function(){
-        var userData = 
-    })
-
     $(".saveBtn").on("click", function(){
-        localStorage.setItem("8 AM", + userData)
+        var userAnswer = $("textarea").val();
+        console.log(userAnswer);
+        localStorage.setItem("Things to do",  userAnswer)
+
     })
 
-
-
-
-
-
-
-
-
-
-
-    
-
-})
+})  
