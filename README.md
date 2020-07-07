@@ -1,1 +1,2 @@
 # planYourDay
+for our day calandar we will be seeing how well we can write our script in hand with the new moment.js. This should keep track of our time as we go through the day as well as saving the events that we write in. We will be making mulitple pushes and chipping away at this task piece by piece.
